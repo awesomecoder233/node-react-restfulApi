@@ -27,3 +27,4 @@ const App = ({ classes }) => (
 );
 
 export default withStyles(styles)(App);
+require('dotenv').config();
